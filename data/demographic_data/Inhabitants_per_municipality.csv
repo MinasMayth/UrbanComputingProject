@@ -1,112 +1,53 @@
-﻿"";"";"Bevolking|Bevolkingssamenstelling op 1 januari|Totale bevolking"
-"Regio's";"Perioden";"aantal"
-"Ter Aar";"2020";""
-"Alblasserdam";"2020";"20165"
-"Albrandswaard";"2020";"25590"
-"Alkemade";"2020";""
-"Alphen aan den Rijn";"2020";"111897"
-"Barendrecht";"2020";"48714"
-"Bergambacht";"2020";""
-"Bergschenhoek";"2020";""
-"Berkel en Rodenrijs";"2020";""
-"Bernisse";"2020";""
-"Binnenmaas";"2020";""
-"Bleiswijk";"2020";""
-"Bodegraven";"2020";""
-"Bodegraven-Reeuwijk";"2020";"34872"
-"Boskoop";"2020";""
-"Brielle";"2020";"17271"
-"Capelle aan den IJssel";"2020";"67122"
-"Cromstrijen";"2020";""
-"Delft";"2020";"103595"
-"Dirksland";"2020";""
-"Dordrecht";"2020";"119284"
-"Giessenlanden";"2020";""
-"Goedereede";"2020";""
-"Goeree-Overflakkee";"2020";"50049"
-"Gorinchem";"2020";"37022"
-"Gouda";"2020";"73427"
-"Graafstroom";"2020";""
-"'s-Gravendeel";"2020";""
-"'s-Gravenhage (gemeente)";"2020";"545838"
-"'s-Gravenzande";"2020";""
-"Hardinxveld-Giessendam";"2020";"18295"
-"Heerjansdam";"2020";""
-"Hellevoetsluis";"2020";"40142"
-"Hendrik-Ido-Ambacht";"2020";"31202"
-"Hillegom";"2020";"22209"
-"Hoeksche Waard";"2020";"87401"
-"Jacobswoude";"2020";""
-"Kaag en Braassem";"2020";"27297"
-"Katwijk";"2020";"65753"
-"Korendijk";"2020";""
-"Krimpen aan den IJssel";"2020";"29526"
-"Krimpenerwaard";"2020";"56319"
-"Lansingerland";"2020";"62384"
-"Leerdam";"2020";""
-"Leiden";"2020";"125099"
-"Leiderdorp";"2020";"27056"
-"Leidschendam";"2020";""
-"Leidschendam-Voorburg";"2020";"76534"
-"Liemeer";"2020";""
-"De Lier";"2020";""
-"Liesveld";"2020";""
-"Lisse";"2020";"22955"
-"Maasland";"2020";""
-"Maassluis";"2020";"33213"
-"Middelharnis";"2020";""
-"Midden-Delfland";"2020";"19341"
-"Molenlanden";"2020";"43909"
-"Molenwaard";"2020";""
-"Monster";"2020";""
-"Moordrecht";"2020";""
-"Naaldwijk";"2020";""
-"Nederlek";"2020";""
-"Nieuwerkerk aan den IJssel";"2020";""
-"Nieuwkoop";"2020";"28811"
-"Nieuw-Lekkerland";"2020";""
-"Nissewaard";"2020";"85219"
-"Noordwijk";"2020";"43508"
-"Noordwijkerhout";"2020";""
-"Nootdorp";"2020";""
-"Oegstgeest";"2020";"24840"
-"Oostflakkee";"2020";""
-"Oud-Beijerland";"2020";""
-"Ouderkerk";"2020";""
-"Papendrecht";"2020";"32136"
-"Pijnacker";"2020";""
-"Pijnacker-Nootdorp";"2020";"55308"
-"Reeuwijk";"2020";""
-"Ridderkerk";"2020";"46189"
-"Rijnsburg";"2020";""
-"Rijnwoude";"2020";""
-"Rijswijk (ZH.)";"2020";"54450"
-"Rotterdam";"2020";"651157"
-"Rozenburg";"2020";""
-"Sassenheim";"2020";""
-"Schiedam";"2020";"78730"
-"Schipluiden";"2020";""
-"Schoonhoven";"2020";""
-"Sliedrecht";"2020";"25220"
-"Spijkenisse";"2020";""
-"Strijen";"2020";""
-"Teylingen";"2020";"37440"
-"Valkenburg (ZH.)";"2020";""
-"Vlaardingen";"2020";"73397"
-"Vlist";"2020";""
-"Voorburg";"2020";""
-"Voorhout";"2020";""
-"Voorschoten";"2020";"25596"
-"Waddinxveen";"2020";"29291"
-"Warmond";"2020";""
-"Wassenaar";"2020";"26305"
-"Wateringen";"2020";""
-"Westland";"2020";"110375"
-"Westvoorne";"2020";"14731"
-"Zederik";"2020";""
-"Zevenhuizen-Moerkapelle";"2020";""
-"Zoetermeer";"2020";"125285"
-"Zoeterwoude";"2020";"8605"
-"Zuidplas";"2020";"43885"
-"Zwijndrecht";"2020";"44737"
-"Bron: CBS"
+﻿Municipality,Year,Total
+Alblasserdam,2020,20165
+Albrandswaard,2020,25590
+Alphen aan den Rijn,2020,111897
+Barendrecht,2020,48714
+Bodegraven-Reeuwijk,2020,34872
+Brielle,2020,17271
+Capelle aan den IJssel,2020,67122
+Delft,2020,103595
+Dordrecht,2020,119284
+Goeree-Overflakkee,2020,50049
+Gorinchem,2020,37022
+Gouda,2020,73427
+'s-Gravenhage (gemeente),2020,545838
+Hardinxveld-Giessendam,2020,18295
+Hellevoetsluis,2020,40142
+Hendrik-Ido-Ambacht,2020,31202
+Hillegom,2020,22209
+Hoeksche Waard,2020,87401
+Kaag en Braassem,2020,27297
+Katwijk,2020,65753
+Krimpen aan den IJssel,2020,29526
+Krimpenerwaard,2020,56319
+Lansingerland,2020,62384
+Leiden,2020,125099
+Leiderdorp,2020,27056
+Leidschendam-Voorburg,2020,76534
+Lisse,2020,22955
+Maassluis,2020,33213
+Midden-Delfland,2020,19341
+Molenlanden,2020,43909
+Nieuwkoop,2020,28811
+Nissewaard,2020,85219
+Noordwijk,2020,43508
+Oegstgeest,2020,24840
+Papendrecht,2020,32136
+Pijnacker-Nootdorp,2020,55308
+Ridderkerk,2020,46189
+Rijswijk (ZH.),2020,54450
+Rotterdam,2020,651157
+Schiedam,2020,78730
+Sliedrecht,2020,25220
+Teylingen,2020,37440
+Vlaardingen,2020,73397
+Voorschoten,2020,25596
+Waddinxveen,2020,29291
+Wassenaar,2020,26305
+Westland,2020,110375
+Westvoorne,2020,14731
+Zoetermeer,2020,125285
+Zoeterwoude,2020,8605
+Zuidplas,2020,43885
+Zwijndrecht,2020,44737
