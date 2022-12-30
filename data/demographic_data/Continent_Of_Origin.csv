@@ -1,369 +1,365 @@
-﻿Region,,
-Leeftijd: Totaal,,
-,,
-,Onderwerp,Bevolking
-,Geslacht,Totaal mannen en vrouwen
-,Perioden,2020
-Regio's,Nationaliteit,aantal
-Alblasserdam,Totaal,20165
-Alblasserdam,Totaal niet-Nederlandse nationaliteit,654
-Alblasserdam,Afrika,45
-Alblasserdam,Amerika,11
-Alblasserdam,Azië,137
-Alblasserdam,Europa (exclusief Nederlands),413
-Alblasserdam,Oceanië,1
-Albrandswaard,Totaal,25590
-Albrandswaard,Totaal niet-Nederlandse nationaliteit,827
-Albrandswaard,Afrika,103
-Albrandswaard,Amerika,31
-Albrandswaard,Azië,215
-Albrandswaard,Europa (exclusief Nederlands),424
-Albrandswaard,Oceanië,1
-Alphen aan den Rijn,Totaal,111897
-Alphen aan den Rijn,Totaal niet-Nederlandse nationaliteit,5541
-Alphen aan den Rijn,Afrika,487
-Alphen aan den Rijn,Amerika,146
-Alphen aan den Rijn,Azië,1077
-Alphen aan den Rijn,Oceanië,9
-Barendrecht,Totaal,48714
-Barendrecht,Totaal niet-Nederlandse nationaliteit,1542
-Barendrecht,Afrika,140
-Barendrecht,Amerika,70
-Barendrecht,Azië,451
-Barendrecht,Europa (exclusief Nederlands),770
-Barendrecht,Oceanië,1
-Bodegraven-Reeuwijk,Totaal,34872
-Bodegraven-Reeuwijk,Totaal niet-Nederlandse nationaliteit,1225
-Bodegraven-Reeuwijk,Afrika,113
-Bodegraven-Reeuwijk,Amerika,33
-Bodegraven-Reeuwijk,Azië,240
-Bodegraven-Reeuwijk,Europa (exclusief Nederlands),770
-Bodegraven-Reeuwijk,Oceanië,3
-Brielle,Totaal,17271
-Brielle,Totaal niet-Nederlandse nationaliteit,758
-Brielle,Afrika,39
-Brielle,Amerika,22
-Brielle,Azië,120
-Brielle,Europa (exclusief Nederlands),547
-Brielle,Oceanië,1
-Capelle aan den IJssel,Totaal,67122
-Capelle aan den IJssel,Totaal niet-Nederlandse nationaliteit,4166
-Capelle aan den IJssel,Afrika,308
-Capelle aan den IJssel,Amerika,234
-Capelle aan den IJssel,Azië,1334
-Capelle aan den IJssel,Europa (exclusief Nederlands),2049
-Capelle aan den IJssel,Oceanië,5
-Delft,Totaal,103595
-Delft,Totaal niet-Nederlandse nationaliteit,15948
-Delft,Afrika,875
-Delft,Amerika,1122
-Delft,Azië,5428
-Delft,Europa (exclusief Nederlands),8109
-Delft,Oceanië,111
-Dordrecht,Totaal,119284
-Dordrecht,Totaal niet-Nederlandse nationaliteit,8261
-Dordrecht,Afrika,756
-Dordrecht,Amerika,208
-Dordrecht,Azië,1109
-Dordrecht,Europa (exclusief Nederlands),5815
-Dordrecht,Oceanië,18
-Goeree-Overflakkee,Totaal,50049
-Goeree-Overflakkee,Totaal niet-Nederlandse nationaliteit,1154
-Goeree-Overflakkee,Afrika,142
-Goeree-Overflakkee,Amerika,29
-Goeree-Overflakkee,Azië,324
-Goeree-Overflakkee,Europa (exclusief Nederlands),623
-Goeree-Overflakkee,Oceanië,1
-Gorinchem,Totaal,37022
-Gorinchem,Totaal niet-Nederlandse nationaliteit,2381
-Gorinchem,Afrika,372
-Gorinchem,Amerika,59
-Gorinchem,Azië,375
-Gorinchem,Europa (exclusief Nederlands),1474
-Gorinchem,Oceanië,0
-Gouda,Totaal,73427
-Gouda,Totaal niet-Nederlandse nationaliteit,4330
-Gouda,Afrika,840
-Gouda,Amerika,149
-Gouda,Azië,728
-Gouda,Europa (exclusief Nederlands),2386
-Gouda,Oceanië,9
-'s-Gravenhage (gemeente),Totaal,545838
-'s-Gravenhage (gemeente),Totaal niet-Nederlandse nationaliteit,101420
-'s-Gravenhage (gemeente),Afrika,8054
-'s-Gravenhage (gemeente),Amerika,4808
-'s-Gravenhage (gemeente),Azië,14008
-'s-Gravenhage (gemeente),Europa (exclusief Nederlands),71969
-'s-Gravenhage (gemeente),Oceanië,424
-Hardinxveld-Giessendam,Totaal,18295
-Hardinxveld-Giessendam,Totaal niet-Nederlandse nationaliteit,409
-Hardinxveld-Giessendam,Afrika,61
-Hardinxveld-Giessendam,Amerika,6
-Hardinxveld-Giessendam,Azië,107
-Hardinxveld-Giessendam,Europa (exclusief Nederlands),206
-Hardinxveld-Giessendam,Oceanië,0
-Hellevoetsluis,Totaal,40142
-Hellevoetsluis,Totaal niet-Nederlandse nationaliteit,1573
-Hellevoetsluis,Afrika,110
-Hellevoetsluis,Amerika,63
-Hellevoetsluis,Azië,328
-Hellevoetsluis,Europa (exclusief Nederlands),970
-Hellevoetsluis,Oceanië,2
-Hendrik-Ido-Ambacht,Totaal,31202
-Hendrik-Ido-Ambacht,Totaal niet-Nederlandse nationaliteit,711
-Hendrik-Ido-Ambacht,Afrika,52
-Hendrik-Ido-Ambacht,Amerika,22
-Hendrik-Ido-Ambacht,Azië,233
-Hendrik-Ido-Ambacht,Europa (exclusief Nederlands),328
-Hendrik-Ido-Ambacht,Oceanië,0
-Hillegom,Totaal,22209
-Hillegom,Totaal niet-Nederlandse nationaliteit,1528
-Hillegom,Afrika,75
-Hillegom,Amerika,44
-Hillegom,Azië,187
-Hillegom,Europa (exclusief Nederlands),1156
-Hillegom,Oceanië,4
-Hoeksche Waard,Totaal,87401
-Hoeksche Waard,Totaal niet-Nederlandse nationaliteit,1985
-Hoeksche Waard,Afrika,245
-Hoeksche Waard,Amerika,74
-Hoeksche Waard,Azië,611
-Hoeksche Waard,Europa (exclusief Nederlands),888
-Hoeksche Waard,Oceanië,7
-Kaag en Braassem,Totaal,27297
-Kaag en Braassem,Totaal niet-Nederlandse nationaliteit,1093
-Kaag en Braassem,Afrika,73
-Kaag en Braassem,Amerika,49
-Kaag en Braassem,Azië,182
-Kaag en Braassem,Europa (exclusief Nederlands),731
-Kaag en Braassem,Oceanië,0
-Katwijk,Totaal,65753
-Katwijk,Totaal niet-Nederlandse nationaliteit,2590
-Katwijk,Afrika,252
-Katwijk,Amerika,87
-Katwijk,Azië,484
-Katwijk,Europa (exclusief Nederlands),1549
-Katwijk,Oceanië,1
-Krimpen aan den IJssel,Totaal,29526
-Krimpen aan den IJssel,Totaal niet-Nederlandse nationaliteit,744
-Krimpen aan den IJssel,Afrika,70
-Krimpen aan den IJssel,Amerika,27
-Krimpen aan den IJssel,Azië,277
-Krimpen aan den IJssel,Europa (exclusief Nederlands),311
-Krimpen aan den IJssel,Oceanië,1
-Krimpenerwaard,Totaal,56319
-Krimpenerwaard,Afrika,236
-Krimpenerwaard,Amerika,39
-Krimpenerwaard,Azië,372
-Krimpenerwaard,Europa (exclusief Nederlands),819
-Krimpenerwaard,Oceanië,2
-Lansingerland,Totaal,62384
-Lansingerland,Totaal niet-Nederlandse nationaliteit,2097
-Lansingerland,Afrika,209
-Lansingerland,Amerika,91
-Lansingerland,Azië,595
-Lansingerland,Europa (exclusief Nederlands),1079
-Lansingerland,Oceanië,3
-Leiden,Totaal,125099
-Leiden,Totaal niet-Nederlandse nationaliteit,14547
-Leiden,Afrika,959
-Leiden,Amerika,1194
-Leiden,Azië,2973
-Leiden,Europa (exclusief Nederlands),8973
-Leiden,Oceanië,104
-Leiderdorp,Totaal,27056
-Leiderdorp,Totaal niet-Nederlandse nationaliteit,1255
-Leiderdorp,Afrika,128
-Leiderdorp,Amerika,66
-Leiderdorp,Azië,347
-Leiderdorp,Europa (exclusief Nederlands),656
-Leiderdorp,Oceanië,5
-Leidschendam-Voorburg,Totaal,76534
-Leidschendam-Voorburg,Totaal niet-Nederlandse nationaliteit,6993
-Leidschendam-Voorburg,Afrika,578
-Leidschendam-Voorburg,Amerika,370
-Leidschendam-Voorburg,Azië,1932
-Leidschendam-Voorburg,Europa (exclusief Nederlands),3840
-Leidschendam-Voorburg,Oceanië,19
-Lisse,Totaal,22955
-Lisse,Totaal niet-Nederlandse nationaliteit,1101
-Lisse,Afrika,65
-Lisse,Amerika,33
-Lisse,Azië,174
-Lisse,Europa (exclusief Nederlands),793
-Lisse,Oceanië,0
-Maassluis,Totaal,33213
-Maassluis,Totaal niet-Nederlandse nationaliteit,2188
-Maassluis,Afrika,255
-Maassluis,Amerika,45
-Maassluis,Azië,313
-Maassluis,Europa (exclusief Nederlands),1493
-Maassluis,Oceanië,1
-Midden-Delfland,Totaal,19341
-Midden-Delfland,Totaal niet-Nederlandse nationaliteit,629
-Midden-Delfland,Afrika,77
-Midden-Delfland,Amerika,31
-Midden-Delfland,Azië,169
-Midden-Delfland,Europa (exclusief Nederlands),316
-Midden-Delfland,Oceanië,3
-Molenlanden,Totaal,43909
-Molenlanden,Totaal niet-Nederlandse nationaliteit,1015
-Molenlanden,Afrika,84
-Molenlanden,Amerika,31
-Molenlanden,Azië,243
-Molenlanden,Europa (exclusief Nederlands),588
-Molenlanden,Oceanië,1
-Nieuwkoop,Totaal,28811
-Nieuwkoop,Totaal niet-Nederlandse nationaliteit,1148
-Nieuwkoop,Afrika,97
-Nieuwkoop,Amerika,22
-Nieuwkoop,Azië,210
-Nieuwkoop,Europa (exclusief Nederlands),779
-Nieuwkoop,Oceanië,4
-Nissewaard,Totaal,85219
-Nissewaard,Totaal niet-Nederlandse nationaliteit,3589
-Nissewaard,Afrika,222
-Nissewaard,Amerika,152
-Nissewaard,Azië,831
-Nissewaard,Europa (exclusief Nederlands),2190
-Nissewaard,Oceanië,7
-Noordwijk,Totaal,43508
-Noordwijk,Totaal niet-Nederlandse nationaliteit,3414
-Noordwijk,Afrika,130
-Noordwijk,Amerika,74
-Noordwijk,Azië,356
-Noordwijk,Europa (exclusief Nederlands),2782
-Noordwijk,Oceanië,7
-Oegstgeest,Totaal,24840
-Oegstgeest,Totaal niet-Nederlandse nationaliteit,2081
-Oegstgeest,Afrika,88
-Oegstgeest,Amerika,114
-Oegstgeest,Azië,346
-Oegstgeest,Europa (exclusief Nederlands),1479
-Oegstgeest,Oceanië,12
-Papendrecht,Totaal,32136
-Papendrecht,Totaal niet-Nederlandse nationaliteit,972
-Papendrecht,Afrika,96
-Papendrecht,Amerika,39
-Papendrecht,Azië,227
-Papendrecht,Europa (exclusief Nederlands),521
-Papendrecht,Oceanië,2
-Pijnacker-Nootdorp,Totaal,55308
-Pijnacker-Nootdorp,Totaal niet-Nederlandse nationaliteit,2711
-Pijnacker-Nootdorp,Afrika,179
-Pijnacker-Nootdorp,Amerika,150
-Pijnacker-Nootdorp,Azië,885
-Pijnacker-Nootdorp,Europa (exclusief Nederlands),1383
-Pijnacker-Nootdorp,Oceanië,9
-Ridderkerk,Totaal,46189
-Ridderkerk,Totaal niet-Nederlandse nationaliteit,1638
-Ridderkerk,Afrika,182
-Ridderkerk,Amerika,46
-Ridderkerk,Azië,446
-Ridderkerk,Europa (exclusief Nederlands),801
-Ridderkerk,Oceanië,5
-Rijswijk (ZH.),Totaal,54450
-Rijswijk (ZH.),Totaal niet-Nederlandse nationaliteit,5240
-Rijswijk (ZH.),Afrika,390
-Rijswijk (ZH.),Amerika,256
-Rijswijk (ZH.),Azië,1247
-Rijswijk (ZH.),Europa (exclusief Nederlands),3143
-Rijswijk (ZH.),Oceanië,13
-Rotterdam,Totaal,651157
-Rotterdam,Totaal niet-Nederlandse nationaliteit,81077
-Rotterdam,Afrika,8068
-Rotterdam,Amerika,4300
-Rotterdam,Azië,13317
-Rotterdam,Europa (exclusief Nederlands),52117
-Rotterdam,Oceanië,203
-Schiedam,Totaal,78730
-Schiedam,Totaal niet-Nederlandse nationaliteit,10117
-Schiedam,Afrika,601
-Schiedam,Amerika,330
-Schiedam,Azië,1196
-Schiedam,Europa (exclusief Nederlands),7702
-Schiedam,Oceanië,16
-Sliedrecht,Totaal,25220
-Sliedrecht,Totaal niet-Nederlandse nationaliteit,811
-Sliedrecht,Afrika,88
-Sliedrecht,Amerika,22
-Sliedrecht,Azië,173
-Sliedrecht,Europa (exclusief Nederlands),454
-Sliedrecht,Oceanië,1
-Teylingen,Totaal,37440
-Teylingen,Totaal niet-Nederlandse nationaliteit,1940
-Teylingen,Afrika,139
-Teylingen,Amerika,71
-Teylingen,Azië,324
-Teylingen,Europa (exclusief Nederlands),1333
-Teylingen,Oceanië,14
-Vlaardingen,Totaal,73397
-Vlaardingen,Totaal niet-Nederlandse nationaliteit,5997
-Vlaardingen,Afrika,428
-Vlaardingen,Amerika,141
-Vlaardingen,Azië,627
-Vlaardingen,Europa (exclusief Nederlands),4592
-Vlaardingen,Oceanië,5
-Voorschoten,Totaal,25596
-Voorschoten,Totaal niet-Nederlandse nationaliteit,1691
-Voorschoten,Afrika,103
-Voorschoten,Amerika,87
-Voorschoten,Azië,337
-Voorschoten,Europa (exclusief Nederlands),1113
-Voorschoten,Oceanië,12
-Waddinxveen,Totaal,29291
-Waddinxveen,Totaal niet-Nederlandse nationaliteit,1310
-Waddinxveen,Afrika,137
-Waddinxveen,Amerika,27
-Waddinxveen,Azië,199
-Waddinxveen,Europa (exclusief Nederlands),899
-Waddinxveen,Oceanië,0
-Wassenaar,Totaal,26305
-Wassenaar,Totaal niet-Nederlandse nationaliteit,4009
-Wassenaar,Afrika,169
-Wassenaar,Amerika,661
-Wassenaar,Azië,591
-Wassenaar,Europa (exclusief Nederlands),2494
-Wassenaar,Oceanië,47
-Westland,Totaal,110375
-Westland,Totaal niet-Nederlandse nationaliteit,7224
-Westland,Afrika,457
-Westland,Amerika,99
-Westland,Azië,729
-Westland,Europa (exclusief Nederlands),5753
-Westland,Oceanië,11
-Westvoorne,Totaal,14731
-Westvoorne,Totaal niet-Nederlandse nationaliteit,387
-Westvoorne,Afrika,17
-Westvoorne,Amerika,16
-Westvoorne,Azië,109
-Westvoorne,Europa (exclusief Nederlands),230
-Westvoorne,Oceanië,1
-Zoetermeer,Totaal,125285
-Zoetermeer,Totaal niet-Nederlandse nationaliteit,5462
-Zoetermeer,Afrika,583
-Zoetermeer,Amerika,270
-Zoetermeer,Azië,1577
-Zoetermeer,Europa (exclusief Nederlands),2775
-Zoetermeer,Oceanië,11
-Zoeterwoude,Totaal,8605
-Zoeterwoude,Totaal niet-Nederlandse nationaliteit,246
-Zoeterwoude,Afrika,18
-Zoeterwoude,Amerika,10
-Zoeterwoude,Azië,74
-Zoeterwoude,Europa (exclusief Nederlands),126
-Zoeterwoude,Oceanië,0
-Zuidplas,Totaal,43885
-Zuidplas,Totaal niet-Nederlandse nationaliteit,1501
-Zuidplas,Afrika,189
-Zuidplas,Amerika,54
-Zuidplas,Azië,316
-Zuidplas,Europa (exclusief Nederlands),830
-Zuidplas,Oceanië,4
-Zwijndrecht,Totaal,44737
-Zwijndrecht,Totaal niet-Nederlandse nationaliteit,1924
-Zwijndrecht,Afrika,247
-Zwijndrecht,Amerika,46
-Zwijndrecht,Azië,439
-Zwijndrecht,Europa (exclusief Nederlands),1057
-Zwijndrecht,Oceanië,6
+﻿Municipality,Nationaliteit,2020,2022
+Alblasserdam,Totaal,20165,20087
+Alblasserdam,Totaal niet-Nederlandse nationaliteit,654,622
+Alblasserdam,Afrika,45,43
+Alblasserdam,Amerika,11,14
+Alblasserdam,Azië,137,137
+Alblasserdam,Europa (ex. NL),413,406
+Alblasserdam,Oceanië,1,1
+Albrandswaard,Totaal,25590,25934
+Albrandswaard,Totaal niet-Nederlandse nationaliteit,827,831
+Albrandswaard,Afrika,103,69
+Albrandswaard,Amerika,31,44
+Albrandswaard,Azië,215,179
+Albrandswaard,Europa (ex. NL),424,494
+Albrandswaard,Oceanië,1,1
+Alphen aan den Rijn,Totaal,111897,112926
+Alphen aan den Rijn,Totaal niet-Nederlandse nationaliteit,5541,5582
+Alphen aan den Rijn,Afrika,487,373
+Alphen aan den Rijn,Amerika,146,169
+Alphen aan den Rijn,Azië,1077,953
+Alphen aan den Rijn,Europa (ex. NL),3636,3949
+Alphen aan den Rijn,Oceanië,9,9
+Barendrecht,Totaal,48714,48714
+Barendrecht,Totaal niet-Nederlandse nationaliteit,1542,1578
+Barendrecht,Afrika,140,125
+Barendrecht,Amerika,70,80
+Barendrecht,Azië,451,396
+Barendrecht,Europa (ex. NL),770,905
+Barendrecht,Oceanië,1,1
+Bodegraven-Reeuwijk,Totaal,34872,35752
+Bodegraven-Reeuwijk,Totaal niet-Nederlandse nationaliteit,1225,1344
+Bodegraven-Reeuwijk,Afrika,113,123
+Bodegraven-Reeuwijk,Amerika,33,42
+Bodegraven-Reeuwijk,Azië,240,218
+Bodegraven-Reeuwijk,Europa (ex. NL),770,907
+Bodegraven-Reeuwijk,Oceanië,3,3
+Brielle,Totaal,17271,17704
+Brielle,Totaal niet-Nederlandse nationaliteit,758,797
+Brielle,Afrika,39,30
+Brielle,Amerika,22,26
+Brielle,Azië,120,97
+Brielle,Europa (ex. NL),547,630
+Brielle,Oceanië,1,0
+Capelle aan den IJssel,Totaal,67122,67188
+Capelle aan den IJssel,Totaal niet-Nederlandse nationaliteit,4166,4587
+Capelle aan den IJssel,Afrika,308,357
+Capelle aan den IJssel,Amerika,234,226
+Capelle aan den IJssel,Azië,1334,1410
+Capelle aan den IJssel,Europa (ex. NL),2049,2435
+Capelle aan den IJssel,Oceanië,5,5
+Delft,Totaal,103595,104572
+Delft,Totaal niet-Nederlandse nationaliteit,15948,16746
+Delft,Afrika,875,938
+Delft,Amerika,1122,1059
+Delft,Azië,5428,5271
+Delft,Europa (ex. NL),8109,9206
+Delft,Oceanië,111,50
+Dordrecht,Totaal,119284,119537
+Dordrecht,Totaal niet-Nederlandse nationaliteit,8261,8354
+Dordrecht,Afrika,756,622
+Dordrecht,Amerika,208,248
+Dordrecht,Azië,1109,1014
+Dordrecht,Europa (ex. NL),5815,6165
+Dordrecht,Oceanië,18,19
+Goeree-Overflakkee,Totaal,50049,51051
+Goeree-Overflakkee,Totaal niet-Nederlandse nationaliteit,1154,1154
+Goeree-Overflakkee,Afrika,142,126
+Goeree-Overflakkee,Amerika,29,32
+Goeree-Overflakkee,Azië,324,242
+Goeree-Overflakkee,Europa (ex. NL),623,729
+Goeree-Overflakkee,Oceanië,1,1
+Gorinchem,Totaal,37022,37632
+Gorinchem,Totaal niet-Nederlandse nationaliteit,2381,2292
+Gorinchem,Afrika,372,327
+Gorinchem,Amerika,59,58
+Gorinchem,Azië,375,283
+Gorinchem,Europa (ex. NL),1474,1571
+Gorinchem,Oceanië,0,3
+Gouda,Totaal,73427,74095
+Gouda,Totaal niet-Nederlandse nationaliteit,4330,4525
+Gouda,Afrika,840,703
+Gouda,Amerika,149,155
+Gouda,Azië,728,737
+Gouda,Europa (ex. NL),2386,2772
+Gouda,Oceanië,9,11
+'s-Gravenhage,Totaal,545838,553417
+'s-Gravenhage,Totaal niet-Nederlandse nationaliteit,101420,107394
+'s-Gravenhage,Afrika,8054,7396
+'s-Gravenhage,Amerika,4808,4923
+'s-Gravenhage,Azië,14008,13715
+'s-Gravenhage,Europa (ex. NL),71969,79464
+'s-Gravenhage,Oceanië,424,362
+Hardinxveld-Giessendam,Totaal,18295,18511
+Hardinxveld-Giessendam,Totaal niet-Nederlandse nationaliteit,409,423
+Hardinxveld-Giessendam,Afrika,61,54
+Hardinxveld-Giessendam,Amerika,6,8
+Hardinxveld-Giessendam,Azië,107,93
+Hardinxveld-Giessendam,Europa (ex. NL),206,252
+Hardinxveld-Giessendam,Oceanië,0,0
+Hellevoetsluis,Totaal,40142,40574
+Hellevoetsluis,Totaal niet-Nederlandse nationaliteit,1573,1681
+Hellevoetsluis,Afrika,110,117
+Hellevoetsluis,Amerika,63,53
+Hellevoetsluis,Azië,328,327
+Hellevoetsluis,Europa (ex. NL),970,1110
+Hellevoetsluis,Oceanië,2,2
+Hendrik-Ido-Ambacht,Totaal,31202,31663
+Hendrik-Ido-Ambacht,Totaal niet-Nederlandse nationaliteit,711,637
+Hendrik-Ido-Ambacht,Afrika,52,41
+Hendrik-Ido-Ambacht,Amerika,22,30
+Hendrik-Ido-Ambacht,Azië,233,176
+Hendrik-Ido-Ambacht,Europa (ex. NL),328,333
+Hendrik-Ido-Ambacht,Oceanië,0,1
+Hillegom,Totaal,22209,22312
+Hillegom,Totaal niet-Nederlandse nationaliteit,1528,1710
+Hillegom,Afrika,75,79
+Hillegom,Amerika,44,54
+Hillegom,Azië,187,200
+Hillegom,Europa (ex. NL),1156,1335
+Hillegom,Oceanië,4,4
+Hoeksche Waard,Totaal,87401,88715
+Hoeksche Waard,Totaal niet-Nederlandse nationaliteit,1985,1973
+Hoeksche Waard,Afrika,245,209
+Hoeksche Waard,Amerika,74,82
+Hoeksche Waard,Azië,611,533
+Hoeksche Waard,Europa (ex. NL),888,1043
+Hoeksche Waard,Oceanië,7,6
+Kaag en Braassem,Totaal,27297,27895
+Kaag en Braassem,Totaal niet-Nederlandse nationaliteit,1093,1205
+Kaag en Braassem,Afrika,73,92
+Kaag en Braassem,Amerika,49,54
+Kaag en Braassem,Azië,182,167
+Kaag en Braassem,Europa (ex. NL),731,863
+Kaag en Braassem,Oceanië,0,0
+Katwijk,Totaal,65753,66032
+Katwijk,Totaal niet-Nederlandse nationaliteit,2590,2725
+Katwijk,Afrika,252,293
+Katwijk,Amerika,87,92
+Katwijk,Azië,484,617
+Katwijk,Europa (ex. NL),1549,1575
+Katwijk,Oceanië,1,2
+Krimpen aan den IJssel,Totaal,29526,29415
+Krimpen aan den IJssel,Totaal niet-Nederlandse nationaliteit,744,749
+Krimpen aan den IJssel,Afrika,70,82
+Krimpen aan den IJssel,Amerika,27,43
+Krimpen aan den IJssel,Azië,277,250
+Krimpen aan den IJssel,Europa (ex. NL),311,347
+Krimpen aan den IJssel,Oceanië,1,1
+Krimpenerwaard,Totaal,56319,57062
+Krimpenerwaard,Totaal niet-Nederlandse nationaliteit,1553,1549
+Krimpenerwaard,Afrika,236,207
+Krimpenerwaard,Amerika,39,42
+Krimpenerwaard,Azië,372,353
+Krimpenerwaard,Europa (ex. NL),819,896
+Krimpenerwaard,Oceanië,2,1
+Lansingerland,Totaal,62384,64110
+Lansingerland,Totaal niet-Nederlandse nationaliteit,2097,2188
+Lansingerland,Afrika,209,201
+Lansingerland,Amerika,91,124
+Lansingerland,Azië,595,575
+Lansingerland,Europa (ex. NL),1079,1225
+Lansingerland,Oceanië,3,4
+Leiden,Totaal,125099,125074
+Leiden,Totaal niet-Nederlandse nationaliteit,14547,14459
+Leiden,Afrika,959,895
+Leiden,Amerika,1194,996
+Leiden,Azië,2973,2584
+Leiden,Europa (ex. NL),8973,9666
+Leiden,Oceanië,104,65
+Leiderdorp,Totaal,27056,27464
+Leiderdorp,Totaal niet-Nederlandse nationaliteit,1255,1388
+Leiderdorp,Afrika,128,95
+Leiderdorp,Amerika,66,69
+Leiderdorp,Azië,347,316
+Leiderdorp,Europa (ex. NL),656,852
+Leiderdorp,Oceanië,5,4
+Leidschendam-Voorburg,Totaal,76534,76659
+Leidschendam-Voorburg,Totaal niet-Nederlandse nationaliteit,6993,7177
+Leidschendam-Voorburg,Afrika,578,499
+Leidschendam-Voorburg,Amerika,370,410
+Leidschendam-Voorburg,Azië,1932,1919
+Leidschendam-Voorburg,Europa (ex. NL),3840,4200
+Leidschendam-Voorburg,Oceanië,19,17
+Lisse,Totaal,22955,23015
+Lisse,Totaal niet-Nederlandse nationaliteit,1101,1127
+Lisse,Afrika,65,53
+Lisse,Amerika,33,38
+Lisse,Azië,174,141
+Lisse,Europa (ex. NL),793,860
+Lisse,Oceanië,0,0
+Maassluis,Totaal,33213,34148
+Maassluis,Totaal niet-Nederlandse nationaliteit,2188,2071
+Maassluis,Afrika,255,202
+Maassluis,Amerika,45,51
+Maassluis,Azië,313,182
+Maassluis,Europa (ex. NL),1493,1566
+Maassluis,Oceanië,1,0
+Midden-Delfland,Totaal,19341,19484
+Midden-Delfland,Totaal niet-Nederlandse nationaliteit,629,625
+Midden-Delfland,Afrika,77,78
+Midden-Delfland,Amerika,31,36
+Midden-Delfland,Azië,169,134
+Midden-Delfland,Europa (ex. NL),316,346
+Midden-Delfland,Oceanië,3,1
+Molenlanden,Totaal,43909,44644
+Molenlanden,Totaal niet-Nederlandse nationaliteit,1015,1119
+Molenlanden,Afrika,84,73
+Molenlanden,Amerika,31,39
+Molenlanden,Azië,243,211
+Molenlanden,Europa (ex. NL),588,745
+Molenlanden,Oceanië,1,1
+Nieuwkoop,Totaal,28811,29304
+Nieuwkoop,Totaal niet-Nederlandse nationaliteit,1148,1226
+Nieuwkoop,Afrika,97,77
+Nieuwkoop,Amerika,22,28
+Nieuwkoop,Azië,210,153
+Nieuwkoop,Europa (ex. NL),779,938
+Nieuwkoop,Oceanië,4,3
+Nissewaard,Totaal,85219,86332
+Nissewaard,Totaal niet-Nederlandse nationaliteit,3589,4223
+Nissewaard,Afrika,222,225
+Nissewaard,Amerika,152,167
+Nissewaard,Azië,831,837
+Nissewaard,Europa (ex. NL),2190,2857
+Nissewaard,Oceanië,7,8
+Noordwijk,Totaal,43508,44365
+Noordwijk,Totaal niet-Nederlandse nationaliteit,3414,3342
+Noordwijk,Afrika,130,132
+Noordwijk,Amerika,74,86
+Noordwijk,Azië,356,294
+Noordwijk,Europa (ex. NL),2782,2779
+Noordwijk,Oceanië,7,10
+Oegstgeest,Totaal,24840,25499
+Oegstgeest,Totaal niet-Nederlandse nationaliteit,2081,2310
+Oegstgeest,Afrika,88,104
+Oegstgeest,Amerika,114,123
+Oegstgeest,Azië,346,372
+Oegstgeest,Europa (ex. NL),1479,1657
+Oegstgeest,Oceanië,12,14
+Papendrecht,Totaal,32136,32208
+Papendrecht,Totaal niet-Nederlandse nationaliteit,972,1020
+Papendrecht,Afrika,96,99
+Papendrecht,Amerika,39,46
+Papendrecht,Azië,227,218
+Papendrecht,Europa (ex. NL),521,599
+Papendrecht,Oceanië,2,1
+Pijnacker-Nootdorp,Totaal,55308,56572
+Pijnacker-Nootdorp,Totaal niet-Nederlandse nationaliteit,2711,2806
+Pijnacker-Nootdorp,Afrika,179,173
+Pijnacker-Nootdorp,Amerika,150,136
+Pijnacker-Nootdorp,Azië,885,876
+Pijnacker-Nootdorp,Europa (ex. NL),1383,1527
+Pijnacker-Nootdorp,Oceanië,9,7
+Ridderkerk,Totaal,46189,47099
+Ridderkerk,Totaal niet-Nederlandse nationaliteit,1638,1730
+Ridderkerk,Afrika,182,179
+Ridderkerk,Amerika,46,59
+Ridderkerk,Azië,446,437
+Ridderkerk,Europa (ex. NL),801,914
+Ridderkerk,Oceanië,5,4
+Rijswijk,Totaal,54450,56941
+Rijswijk,Totaal niet-Nederlandse nationaliteit,5240,5588
+Rijswijk,Afrika,390,394
+Rijswijk,Amerika,256,283
+Rijswijk,Azië,1247,1200
+Rijswijk,Europa (ex. NL),3143,3584
+Rijswijk,Oceanië,13,11
+Rotterdam,Totaal,651157,655468
+Rotterdam,Totaal niet-Nederlandse nationaliteit,81077,85899
+Rotterdam,Afrika,8068,7675
+Rotterdam,Amerika,4300,4736
+Rotterdam,Azië,13317,13237
+Rotterdam,Europa (ex. NL),52117,57766
+Rotterdam,Oceanië,203,145
+Schiedam,Totaal,78730,79644
+Schiedam,Totaal niet-Nederlandse nationaliteit,10117,10837
+Schiedam,Afrika,601,513
+Schiedam,Amerika,330,355
+Schiedam,Azië,1196,1170
+Schiedam,Europa (ex. NL),7702,8577
+Schiedam,Oceanië,16,18
+Sliedrecht,Totaal,25220,25897
+Sliedrecht,Totaal niet-Nederlandse nationaliteit,811,836
+Sliedrecht,Afrika,88,61
+Sliedrecht,Amerika,22,21
+Sliedrecht,Azië,173,182
+Sliedrecht,Europa (ex. NL),454,521
+Sliedrecht,Oceanië,1,0
+Teylingen,Totaal,37440,37942
+Teylingen,Totaal niet-Nederlandse nationaliteit,1940,1975
+Teylingen,Afrika,139,117
+Teylingen,Amerika,71,74
+Teylingen,Azië,324,293
+Teylingen,Europa (ex. NL),1333,1433
+Teylingen,Oceanië,14,4
+Vlaardingen,Totaal,73397,74143
+Vlaardingen,Totaal niet-Nederlandse nationaliteit,5997,6510
+Vlaardingen,Afrika,428,394
+Vlaardingen,Amerika,141,130
+Vlaardingen,Azië,627,606
+Vlaardingen,Europa (ex. NL),4592,5206
+Vlaardingen,Oceanië,5,8
+Voorschoten,Totaal,25596,25627
+Voorschoten,Totaal niet-Nederlandse nationaliteit,1691,1641
+Voorschoten,Afrika,103,106
+Voorschoten,Amerika,87,90
+Voorschoten,Azië,337,289
+Voorschoten,Europa (ex. NL),1113,1118
+Voorschoten,Oceanië,12,7
+Waddinxveen,Totaal,29291,31342
+Waddinxveen,Totaal niet-Nederlandse nationaliteit,1310,1484
+Waddinxveen,Afrika,137,129
+Waddinxveen,Amerika,27,40
+Waddinxveen,Azië,199,205
+Waddinxveen,Europa (ex. NL),899,1069
+Waddinxveen,Oceanië,0,2
+Wassenaar,Totaal,26305,27115
+Wassenaar,Totaal niet-Nederlandse nationaliteit,4009,4366
+Wassenaar,Afrika,169,260
+Wassenaar,Amerika,661,586
+Wassenaar,Azië,591,677
+Wassenaar,Europa (ex. NL),2494,2755
+Wassenaar,Oceanië,47,56
+Westland,Totaal,110375,112448
+Westland,Totaal niet-Nederlandse nationaliteit,7224,7388
+Westland,Afrika,457,419
+Westland,Amerika,99,93
+Westland,Azië,729,656
+Westland,Europa (ex. NL),5753,6084
+Westland,Oceanië,11,9
+Westvoorne,Totaal,14731,14960
+Westvoorne,Totaal niet-Nederlandse nationaliteit,387,378
+Westvoorne,Afrika,17,15
+Westvoorne,Amerika,16,14
+Westvoorne,Azië,109,95
+Westvoorne,Europa (ex. NL),230,246
+Westvoorne,Oceanië,1,1
+Zoetermeer,Totaal,125285,125767
+Zoetermeer,Totaal niet-Nederlandse nationaliteit,5462,5562
+Zoetermeer,Afrika,583,588
+Zoetermeer,Amerika,270,289
+Zoetermeer,Azië,1577,1430
+Zoetermeer,Europa (ex. NL),2775,3064
+Zoetermeer,Oceanië,11,8
+Zoeterwoude,Totaal,8605,9302
+Zoeterwoude,Totaal niet-Nederlandse nationaliteit,246,244
+Zoeterwoude,Afrika,18,14
+Zoeterwoude,Amerika,10,14
+Zoeterwoude,Azië,74,35
+Zoeterwoude,Europa (ex. NL),126,160
+Zoeterwoude,Oceanië,0,0
+Zuidplas,Totaal,43885,45794
+Zuidplas,Totaal niet-Nederlandse nationaliteit,1501,1558
+Zuidplas,Afrika,189,173
+Zuidplas,Amerika,54,55
+Zuidplas,Azië,316,285
+Zuidplas,Europa (ex. NL),830,960
+Zuidplas,Oceanië,4,4
+Zwijndrecht,Totaal,44737,44789
+Zwijndrecht,Totaal niet-Nederlandse nationaliteit,1924,1981
+Zwijndrecht,Afrika,247,227
+Zwijndrecht,Amerika,46,48
+Zwijndrecht,Azië,439,382
+Zwijndrecht,Europa (ex. NL),1057,1233
+Zwijndrecht,Oceanië,6,6
